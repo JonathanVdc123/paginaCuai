@@ -47,3 +47,14 @@ section {
 
 .categoriavideos img:hover {
      opacity: 1.0;
+}
+
+.barra {   
+  background-color: rgba(255, 0, 221, 0.993);   
+  position: fixed;   
+  top: 0;   
+  left: 0;   
+  right: 0;   
+  height: 85px;
+  z-index: 1000;
+}  
