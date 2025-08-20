@@ -59,4 +59,13 @@ section {
   height: 85px;
   z-index: 1000;
 }  
+.ronaldo{
+   border-bottom: solid 2px rgb(162, 0, 255);
+    padding: 20px;
+   ;
+    color: rgb(162, 0, 255);
+  }
 
+.MudaCor{
+  color: rgba(166, 0, 255, 0.993) ;
+}
